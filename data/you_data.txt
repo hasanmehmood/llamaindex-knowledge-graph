@@ -1,0 +1,1 @@
+Any text data, on which you want to build Knowledge graph.
